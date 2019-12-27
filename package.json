@@ -24,6 +24,7 @@
     "fs": "0.0.1-security",
     "inquirer": "^6.5.2",
     "jests": "0.0.0",
+    "path": "^0.12.7",
     "util": "^0.12.1"
   },
   "devDependencies": {
